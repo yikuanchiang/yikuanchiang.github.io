@@ -2158,7 +2158,7 @@
 
 			ul.actions li {
 				display: inline-block;
-				padding: 0 1em 0 0;
+				padding: 0.1em 0.1em 0.1em 0.1em;
 				vertical-align: middle;
 			}
 
@@ -2334,16 +2334,16 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border: solid 1.5px #efefef;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
 		height: 3.15em;
-		height: calc(2.75em + 6px);
-		line-height: 2.75em;
-		min-width: 10em;
-		padding: 0 1.5em;
+		height: calc(2.25em + 2px);
+		line-height: 2.25em;
+		min-width: 9em;
+		padding: 0 0em;
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
@@ -2491,11 +2491,11 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 2em 3em;
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 35%;
+		width: 33%;
 	}
 
 		#header > * {
@@ -2573,16 +2573,16 @@
 /* Main */
 
 	#main {
-		margin-left: 35%;
+		margin-left: 36.5%;
 		max-width: 54em;
-		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
+		padding: 2em 3em 3em 3em;
+		width: calc(100% - 36.5%);
 	}
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			margin: 2em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			#main > section:first-child {
@@ -2864,7 +2864,7 @@
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 	}
