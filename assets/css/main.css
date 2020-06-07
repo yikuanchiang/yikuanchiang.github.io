@@ -2491,7 +2491,7 @@
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 2em 3em;
+		padding: 2.4em 3em;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2575,14 +2575,14 @@
 	#main {
 		margin-left: 36.5%;
 		max-width: 54em;
-		padding: 2em 3em 3em 3em;
+		padding: 1.75em 3em 3em 3em;
 		width: calc(100% - 36.5%);
 	}
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 2em 0 0 0;
-			padding: 2em 0 0 0;
+			margin: 1.75em 0 0 0;
+			padding: 1.75em 0 0 0;
 		}
 
 			#main > section:first-child {
