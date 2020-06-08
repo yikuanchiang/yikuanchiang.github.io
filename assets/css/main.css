@@ -1987,7 +1987,7 @@
 
 	.image {
 		border-radius: 0.35em;
-		border: solid 1.5px #efefef;
+		border: solid 0px #efefef;
 		display: inline-block;
 		position: relative;
 	}
